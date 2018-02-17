@@ -12,4 +12,4 @@ We support Bible translation through technology and health care.   We help keep 
 
 We are both third-generation missionaries and feel privileged to be able to use the skills God has given each of us to serve overseas, speeding the work of Bible translation.
 
-![Wycliffe Logo](/images/WBT.jpg)
+![Wycliffe Logo](images/WBT.jpg)
