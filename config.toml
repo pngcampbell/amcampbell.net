@@ -1,4 +1,4 @@
-baseurl = "https://pngcampbell.github.io/amcampbell.net/"
+baseurl = "https://www.amcampbell.net/"
 title = "Campbells in PNG"
 theme = "hugo-theme-dimension"
 languageCode = "en-us"
