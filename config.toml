@@ -1,0 +1,44 @@
+baseurl = "http://localhost:1313"
+title = "Campbells in PNG"
+theme = "hugo-theme-dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = "Supporting Bible Translation in Papua New Guinea through Technology and Health Care"
+  # logo = "fa-audible"
+  copyright = "amcampbell.net"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope-square"
+  link = "mailto:andy_campbell@wycliffe.org"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/campbellsinpng"
+
+# [[params.social]]
+#   medium = "instagram"
+#   icon = "instagram"
+#   link = "#"
+#
+# [[params.social]]
+#   medium = "github"
+#   icon = "github"
+#   link = "#"
+
+# [languages]
+# [languages.en]
+# languageName = "English"
+# weight = 1
+#
+# [languages.sp]
+# languageName = "Spanish"
+# weight = 2
+# title = "La Familia Campbell en PNG"
+# description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+#                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
