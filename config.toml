@@ -13,12 +13,17 @@ publishDir = "docs"
   copyright = "amcampbell.net"
 
 [[params.social]]
-  medium = "email"
+  medium = "Email Andrew"
   icon = "envelope-square"
   link = "mailto:andy_campbell@wycliffe.org"
 
 [[params.social]]
-  medium = "facebook"
+  medium = "Email Melody"
+  icon = "envelope-square"
+  link = "mailto:melody_campbell@wycliffe.org"
+
+[[params.social]]
+  medium = "Facebook"
   icon = "facebook"
   link = "https://www.facebook.com/campbellsinpng"
 

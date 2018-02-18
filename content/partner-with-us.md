@@ -1,6 +1,6 @@
 +++
 title = "Partner with Us"
-weight = 40
+weight = 50
 draft = false
 +++
 

@@ -17,17 +17,3 @@ We keep computers and bodies healthy so that the translation efforts can continu
 Click below for a short video on each of our roles:
 
 {{< youtube T6U2aNaJEeU >}}
-
----
-
-### A few examples of what God is doing in Papua New Guinea:
-
-AROP-LOKEP New Testament Dedication
-
-{{< youtube G7dtwbK-0RE >}}
-
-<br>
-
-AWA AudiBible Dedication
-
-{{< youtube oby-AwqJfZY >}}
