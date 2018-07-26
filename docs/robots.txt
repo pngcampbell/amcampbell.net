@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pngcampbell.github.io/amcampbell.net//sitemap.xml
+Sitemap: http://www.amcampbell.net//sitemap.xml
