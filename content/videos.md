@@ -4,20 +4,19 @@ weight = 40
 draft = false
 +++
 
-Why Bible translation?? Here is a short, 2 minute, video that clearly captures why we are involved in tranlating the Bible.
+### Why Bible translation?
+Here is a short, 2 minute, video that clearly captures why we are involved in tranlating the Bible.
 
 {{< vimeo 74464611 >}}
 
 ---
 
-A few examples of what God is doing in Papua New Guinea:
+### Baruga New Testament Dedication
 
-AROP-LOKEP New Testament Dedication
-
-{{< youtube G7dtwbK-0RE >}}
+{{< youtube _NbZds5TaP0 >}}
 
 ---
 
-AWA AudiBible Dedication
+### Menya New Testament Dedication Dedication
 
 {{< youtube oby-AwqJfZY >}}

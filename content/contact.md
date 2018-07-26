@@ -8,4 +8,6 @@ We would love to hear from you!
 
 {{< socialLinks >}}
 
+---
+
 {{< mailchimp >}}
