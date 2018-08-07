@@ -6,9 +6,9 @@ draft = false
 
 If you would like to give a special gift or become a regular monthly financial partner you can scan the QR code below or follow the link to give online. Or you can send a check made out to Wycliffe Bible Translators. Information on how to do that is given immediately below. Please also let us know if you would like to be a regular prayer partner! 
 
-![Partner With Us](images/qrcode-ITP.png)
+![Partner With Us](images/qr-code-wycliffe-amcampbell.png)
 
-[Click here to give online through Wycliffe's website] (https://www.wycliffe.org/partner/HWPSTL "Give online through Wycliffe's website")
+[Click here to give online through Wycliffe's website] (https://www.wycliffe.org/partner/amcampbell "Give online through Wycliffe's website")
 
 ### How to Give via Check:
 
