@@ -1,50 +1,37 @@
-baseurl = "http://www.amcampbell.net/"
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+theme = "hugo-story"
 title = "Campbells in PNG"
-theme = "hugo-theme-dimension"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-enableRobotsTXT = true
-disableKinds=["RSS"]
-publishDir = "docs"
 
-[params]
-  description = "Supporting Bible Translation in Papua New Guinea through Technology and Health Care"
-  # logo = "fa-audible"
-  copyright = "amcampbell.net"
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
 
-[[params.social]]
-  medium = "Email Andrew"
-  icon = "envelope-square"
-  link = "mailto:andy_campbell@wycliffe.org"
+relativeURLs = "true"
+#canonifyURLs = "true"
 
-[[params.social]]
-  medium = "Email Melody"
-  icon = "envelope-square"
-  link = "mailto:melody_campbell@wycliffe.org"
+# Local
+baseURL = "/"
+publishDir = "public"
 
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/campbellsinpng"
+# Remote
+#baseURL = "https://www.amcampbell.net"
+#publishDir = "//centos/sites/hugodev/hugostory/"
 
-# [[params.social]]
-#   medium = "instagram"
-#   icon = "instagram"
-#   link = "#"
-#
-# [[params.social]]
-#   medium = "github"
-#   icon = "github"
-#   link = "#"
 
-# [languages]
-# [languages.en]
-# languageName = "English"
-# weight = 1
-#
-# [languages.sp]
-# languageName = "Spanish"
-# weight = 2
-# title = "La Familia Campbell en PNG"
-# description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-#                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+
+[Params.social]

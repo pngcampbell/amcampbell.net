@@ -1,0 +1,10 @@
+<!-- Partner with Us -->
+<section class="wrapper style1 align-center"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+</section>
